@@ -10,6 +10,8 @@ Least-Squares-Schätzung ablesen. Läuft vollständig im Browser, ohne Backend.
 > **Alle Werte sind synthetisch** (vereinfachtes 1D-Modell mit angenommenen
 > Parametern). Keine Messung am realen ANT1 und keine validierte Genauigkeit.
 
+**Inspiration:** https://maxsikorski.github.io/jumpstart-3d/
+
 ## Inhalt dieses Repositories
 
 Dieses Repository enthält nur die **automatisch erzeugte Build-Ausgabe**. Der Quellcode
