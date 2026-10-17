@@ -2,6 +2,8 @@
 
 **Seite:** https://projektw2.github.io/ant1-web-demo/
 
+Diese Demo dient dem Drohnen-Projekt. Sie soll zeigen wie eine Visualisierung der Simulationen aussehen kann.
+
 Browser-Demo zur Zuladungsschätzung beim OLIVE ANT1: 3D-Modell drehen und zoomen,
 Zuladung 0–1500 g wählen, eine Beschleunigungs- und Bremsfahrt abspielen,
 synthetische IMU-, Raddrehzahl- und Motorstromwerte ansehen und eine exemplarische
